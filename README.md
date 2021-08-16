@@ -2,7 +2,7 @@
 
 `sudo useradd john -s /sbin/nologin`
 
-
+question1
 <ol>
     <li>Thing 1</li>
     <li>Thing 2</li>
@@ -10,7 +10,7 @@
 </ol>
 
 <!-- By closing the list using </ol>, you are ending the ordered list. It does not go past the end tag. BTW, this is a comment tag -->
-
+question2
 <ol>
     <li>Thing 1 again</li>
     <li>Thing 2 again</li>
