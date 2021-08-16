@@ -3,5 +3,12 @@
 `sudo useradd john -s /sbin/nologin`
 
 
-<!-- -->
-2. The
+<ol>
+    <li>Thing 1</li>
+</ol>
+
+<!-- By closing the list using </ol>, you are ending the ordered list. It does not go past the end tag. BTW, this is a comment tag -->
+
+<ol>
+    <li>Thing 1 again</li>
+</ol>
